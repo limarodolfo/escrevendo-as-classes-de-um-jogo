@@ -23,10 +23,10 @@ Além disso, deve ter um método chamado _attack_ que deve atender aos seguiente
 - Aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
 - E, no {ataque}, deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
 
-Se mago -> no ataque exibir (magia)
-Se guerreiro -> no ataque exibir (espada)
-Se monge -> no ataque exibir (artes marciais)
-Se ninja -> no ataque exibir (_shuriken_)
+Se mago -> no ataque exibir (magia) <br>
+Se guerreiro -> no ataque exibir (espada) <br>
+Se monge -> no ataque exibir (artes marciais) <br>
+Se ninja -> no ataque exibir (_shuriken_) <br>
 
 ## Saída
 
