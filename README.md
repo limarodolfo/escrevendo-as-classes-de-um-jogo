@@ -33,6 +33,6 @@ Se ninja -> no ataque exibir (_shuriken_) <br>
 Ao final, deve se exibir uma mensagem:
 
 - "O {tipo} atacou usando {ataque}"
-  
-  Ex.: O **mago** atacou usando **magia**
-       O **guerreiro** atacou usando **espada**
+
+Ex.: O **mago** atacou usando **magia** <br>
+     O **guerreiro** atacou usando **espada** <br>
